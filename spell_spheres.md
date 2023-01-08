@@ -30,7 +30,36 @@
   
 </details> 
 
-## Polar Elements:
+## Hard Sciences
+
+### Polar Elements:
+
+<details>
+  <summary>#### Force</summary>
+
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10    
+  
+</details> 
 <details>
   <summary>#### Holy</summary>
   
@@ -81,32 +110,6 @@
   9    
 
   10   
-  
-</details> 
-<details>
-  <summary>#### Force</summary>
-
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10    
   
 </details> 
 <details>
@@ -162,7 +165,7 @@
   
 </details> 
 
-## Basic Elements:
+### Basic Elements:
 <details>
   <summary>#### Fire</summary>
   
@@ -268,7 +271,7 @@
   
 </details> 
 
-## Para-Elements:
+### Para-Elements:
 <details>
   <summary>#### Ice</summary>
 
@@ -373,8 +376,36 @@
   10    
   
 </details> 
+<details>
+  <summary>#### Metal</summary>
+  
+  0    
 
-## Quasi-Elements
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+### Quasi-Elements
+
+#### Holy:
 <details>
   <summary>#### Lightning</summary>
 
@@ -479,6 +510,8 @@
   10    
   
 </details> 
+
+#### Dark: 
 <details>
   <summary>#### Ash</summary>
 
@@ -495,7 +528,7 @@
   10
 </details> 
 <details>
-  <summary>#### Dust</summary>
+  <summary>#### Corossion</summary>
 
   0    
 
@@ -573,7 +606,661 @@
   
 </details> 
 
-## Alignment:
+
+### Biomancy
+
+#### Phylomancy:
+
+<details>
+  <summary>#### Wisp</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Fungus</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Plant</summary>
+
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10    
+  
+</details> 
+<details>
+  <summary>#### Animal</summary>
+
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10    
+  
+</details> 
+<details>
+  <summary>#### Cosmic</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+#### Medicine
+<details>
+  <summary>#### Life</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### Healing</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Disease</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Famine</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Death</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+#### 
+
+#### Agromancy
+<details>
+  <summary>#### Harvest</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+## Thaumaturgy
+
+### Astral
+
+<details>
+  <summary>#### Apocalypse</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### Conjuring</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Illusion</summary>
+
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10    
+  
+</details> 
+
+<details>
+  <summary>#### Guardian</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Abjuration</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### Curse</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+### Arcane
+
+<details>
+  <summary>#### Divination</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### Alchemy</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### Enhancement</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Summoning</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Enchanting</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+<details>
+  <summary>#### </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+## Humanities
+
+### Alignment:
 <details>
   <summary>#### Law</summary>
   
@@ -679,352 +1366,8 @@
   
 </details> 
 
-## Nature
 
-<details>
-  <summary>#### Plant</summary>
-
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10    
-  
-</details> 
-<details>
-  <summary>#### Animal</summary>
-
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10    
-  
-</details> 
-<details>
-  <summary>#### Fungus</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-
-<details>
-  <summary>#### Harvest</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Blight</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Curse</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-
-## Thaumaturgy
-
-<details>
-  <summary>#### Divination</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Alchemy</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Enhancement</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Summoning</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Conjuring</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Enchanting</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### </summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-
-## Language
+### Language
 <details>
   <summary>#### Word</summary>
   
@@ -1130,60 +1473,8 @@
   
 </details> 
 
-## Thought
+### Thought
 
-<details>
-  <summary>#### </summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Illusion</summary>
-
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10    
-  
-</details> 
 <details>
   <summary>#### Mind</summary>
 
@@ -1237,10 +1528,89 @@
   
 </details> 
 
-## Martial
+<details>
+  <summary>#### </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+
+### Sociurgy
 
 <details>
-  <summary>#### Metal</summary>
+  <summary>#### </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Festival</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Glory</summary>
   
   0    
 
@@ -1292,10 +1662,63 @@
   
 </details> 
 
-## Other
+### Martial
+
 
 <details>
-  <summary>#### </summary>
+  <summary>#### Protection</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Protection</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Metal</summary>
   
   0    
 
@@ -1347,3 +1770,5 @@
   10   
   
 </details> 
+
+### 
