@@ -1910,6 +1910,8 @@
   
 </details> 
 
+## Tarot
+
 ### Major Arcana
 <details>
   <summary>#### The Fool</summary>
