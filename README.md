@@ -8,8 +8,8 @@
   - Heaven
 - [Core Rules](rules.md)
   - [Checks](rules/checks.md)
-  - [Combat](rules/combat.md)
   - GM Moves
+  - [Combat](rules/combat.md)
 - [Characters](characters.md)
   - [Basic Moves](character/moves.md)
   - [Hunger](character/hunger.md)
