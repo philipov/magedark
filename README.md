@@ -3,7 +3,7 @@
 
 - [Setting](setting.md)
 - [Characters](characters.md)
-  - [Moves](character/moves.md)
+  - [Basic Moves](character/moves.md)
   - [Playbooks](character/playbooks.md)
     - [Adventurer](pb/adventurer.md)
     - [Bandit](pb/bandit.md)
