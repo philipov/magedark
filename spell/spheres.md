@@ -2,7 +2,7 @@
 
 - Contents
   - Introduction.
-  - Rule for how to cherry-pick a spell from a school.
+  - Rule for how to cherry-pick a spell from a sphere.
 
 - Types of Spheres
   -  Hard A
