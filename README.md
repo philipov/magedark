@@ -7,7 +7,7 @@
   - [Playbooks](pb.md)
     - [Adventurer](pb_adventurer.md)
     - [Bandit](pb_bandit.md)
-    - [Cosmic][pb_cosmic.md]
+    - [Cosmic](pb_cosmic.md)
     - [Expert](pb_expert.md)
     - [Noble](pb_noble.md)
     - [Priest](pb_priest.md)
