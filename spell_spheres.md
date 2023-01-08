@@ -1,7 +1,39 @@
 # Major Spell Spheres
 
-- Introduction.
-- Rule for how to cherry-pick a spell from a school.
+- Contents
+  - Introduction.
+  - Rule for how to cherry-pick a spell from a school.
+
+- Types of Spheres
+  -  Hard A
+      - Damage Cantrip
+      - Damage at 1st
+      - Defense at 2nd
+      - AoE at 3rd
+      - Utility at 4th
+  -  Hard B
+      - Utility Cantrip
+      - Defense at 1st
+      - Damage at 2nd
+      - Utility at 3rd
+      - AoE at 4th
+  -  Hard C
+      - Defense Cantrip
+      - Utility at 1st
+      - AoE at 2nd
+
+  - Hard D
+      - Damage/Utility Cantrip
+      - AoE at 1st
+      - Utility at 2nd
+      - Damage at 3rd
+      - Utility at 4th
+      - AoE at 5th
+      - 
+  - Soft A
+  - Soft B
+  - Soft C
+
 
 <details>
   <summary>#### </summary>
@@ -607,9 +639,9 @@
 </details> 
 
 
-### Biomancy
+### Biotheurgy
 
-#### Phylomancy:
+#### Phylotheurgy:
 
 <details>
   <summary>#### Wisp</summary>
@@ -822,31 +854,6 @@
   10   
   
 </details> 
-<details>
-  <summary>#### Famine</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
 </details> 
 <details>
   <summary>#### Death</summary>
@@ -905,6 +912,33 @@
 #### 
 
 #### Agromancy
+
+<details>
+  <summary>#### </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+</details> 
+
 <details>
   <summary>#### Harvest</summary>
   
@@ -932,6 +966,33 @@
   
 </details> 
 
+<details>
+  <summary>#### Famine</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+</details> 
+
+  
 ## Thaumaturgy
 
 ### Astral
@@ -1447,6 +1508,58 @@
   
 </details> 
 <details>
+  <summary>#### Poetry</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Drama</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
   <summary>#### Time</summary>
   
   0    
@@ -1473,7 +1586,7 @@
   
 </details> 
 
-### Thought
+### Psychotheurgy
 
 <details>
   <summary>#### Mind</summary>
@@ -1527,6 +1640,58 @@
   10    
   
 </details> 
+<details>
+  <summary>#### Hope</summary>
+
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10    
+  
+</details> 
+<details>
+  <summary>#### Madness</summary>
+
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10    
+  
+</details> 
 
 <details>
   <summary>#### </summary>
@@ -1555,7 +1720,7 @@
   
 </details> 
 
-### Sociurgy
+### Sociotheurgy
 
 <details>
   <summary>#### </summary>
@@ -1666,7 +1831,7 @@
 
 
 <details>
-  <summary>#### Protection</summary>
+  <summary>#### Smite</summary>
   
   0    
 
@@ -1693,32 +1858,6 @@
 </details> 
 <details>
   <summary>#### Protection</summary>
-  
-  0    
-
-  1    
-
-  2    
-
-  3    
-
-  4    
-
-  5    
-
-  6    
-
-  7    
-
-  8    
-
-  9    
-
-  10   
-  
-</details> 
-<details>
-  <summary>#### Metal</summary>
   
   0    
 
