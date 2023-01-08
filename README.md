@@ -18,6 +18,8 @@
   - [Bonds](character/bonds.md)
   - [Legend](character/legend.md)
 - [Enemies](enemies.md)
+  - Minions
+  - Elites
 - [Items](items.md)
   - [Item Moves](item/moves.mv)
   - [Artisan System](item/artisan.md)
