@@ -1,4 +1,4 @@
-# Codename `magedark`
+# Codename `magedark` 🫠
 
 
 - [Setting](setting.md)
