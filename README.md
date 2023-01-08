@@ -1,7 +1,8 @@
 # Codename `magedark` 🫠
 
-
 - [Setting](setting.md)
+- [Core Rules](rules.md)
+  - [Checks](rules/checks.md)
 - [Characters](characters.md)
   - [Basic Moves](character/moves.md)
   - [Playbooks](character/playbooks.md)
@@ -19,6 +20,6 @@
   - [Item Moves](item/moves.mv)
   - [Artisan System](item/artisan.md)
   - [Item Legend](item/legend.md)
-- [Spells](spells.md)
+- [Magic](magic.md)
   - [Spellcasting](spell/casting.md)
   - [Spell Spheres](spell/spheres.md)
