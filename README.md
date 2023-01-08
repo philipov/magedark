@@ -30,3 +30,6 @@
 - [Magic](magic.md)
   - [Spellcasting](spell/casting.md)
   - [Spell Spheres](spell/spheres.md)
+    - Hard Sciences
+    - Thaumaturgy
+    - Humanities
