@@ -44,3 +44,4 @@
     - Hard Sciences
     - Thaumaturgy
     - Humanities
+    - Tarot
