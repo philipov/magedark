@@ -53,12 +53,13 @@
 - Elemental, Para-elemental, and Quasi-elemental Planes
 - The Sun
 - The Moon
-- 
+- Hell
 
 ### Outer Realms
-- Utrix's Monastery
-- House of Inanna
-- Prison Dimension
+- Demiplanes
+  - Utrix's Monastery
+  - House of Inanna
+  - Prison Dimension
 
 
 ### The Void
