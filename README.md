@@ -3,6 +3,6 @@
 - Characters
   - [Legend System](legend.md)
 - Items
-  - Artisan System
+  - [Artisan System](artisan.md)
 - Spells
-  - Spell Spheres
+  - [Spell Spheres](spell_spheres.md)
