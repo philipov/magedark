@@ -17,27 +17,27 @@
 - 
 ### The Four Courts
 - Court of Coins: 
-  - The Fade
+  - G
   - Great Terrace Mountain
     - Empire of Zeal *
     - Stairway to Heaven
   - Mushroom Forest
-  - a
-- Court of Swords: 
-  - a
-  - Kingdoms of the River Lords
-    - Palace of the Dead *
-  - Crown of Regret
-  - Dwarven Underworld
+  - The Fade
 - Court of Cups: 
   - Frog Swamp
   - Ocean of 1000 Dreams
     - Magic City Vane *
     - Temple of the Sleeper
-  - a
+  - Shiv Glacier
   - Planar Cataract
     - Lighthouse at the Edge of the Universe
     - Ladder to Hell
+- Court of Swords: 
+  - Goblin Canyons
+  - Kingdoms of the River Lords
+    - Palace of the Dead *
+  - Crown of Regret
+  - Dwarven Underworld
 - Court of Wands: 
   - One Thousand Billion Souls of Sand
     - The City of Brass *
