@@ -3,7 +3,8 @@
 - [Setting](setting.md)
   - Where memories go to fade away
   - Lord of Nightmares
-  - The Four Courts
+  - The Major Arcana
+  - Four Courts
   - Heaven
 - [Core Rules](rules.md)
   - [Checks](rules/checks.md)
