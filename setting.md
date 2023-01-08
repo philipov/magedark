@@ -17,33 +17,37 @@
 - 
 ### The Four Courts
 - Court of Coins: 
-  - G
   - Great Terrace Mountain
     - Empire of Zeal *
     - Stairway to Heaven
   - Mushroom Forest
-  - The Fade
+  - Kobold Canyons
+  - Hundred Mile Cliff
 - Court of Cups: 
   - Frog Swamp
   - Ocean of 1000 Dreams
     - Magic City Vane *
     - Temple of the Sleeper
-  - Shiv Glacier
-  - Planar Cataract
+  - Watcher's Glacier
+  - Star-split Cataract
     - Lighthouse at the Edge of the Universe
     - Ladder to Hell
 - Court of Swords: 
-  - Goblin Canyons
-  - Kingdoms of the River Lords
+  - Cerulean Plateau
     - Palace of the Dead *
+  - Riverlands
+    - Kingdoms of the River Lords
   - Crown of Regret
-  - Dwarven Underworld
+    - Dwarven Underworld
+  - Misty Forest
 - Court of Wands: 
   - One Thousand Billion Souls of Sand
     - The City of Brass *
-  - Scar of Inferno
   - Red Forest
-  - Gemsoul Crater
+  - Scar of Inferno
+    - Gemsoul Crater
+  - The Fade
+  
     
 ### Elemental Chaos
 - Elemental, Para-elemental, and Quasi-elemental Planes
@@ -53,6 +57,7 @@
 - Utrix's Monastery
 - House of Inanna
 - Prison Dimension
+- The Moon
 
 ### The Void
 - The Court of Bones
