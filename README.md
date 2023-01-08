@@ -16,7 +16,7 @@
   - [Legend](character/legend.md)
 - [Enemies](enemies.md)
 - [Items](items.md)
-  - [Item Moves][item/moves.mv]
+  - [Item Moves](item/moves.mv)
   - [Artisan System](item/artisan.md)
   - [Item Legend](item/legend.md)
 - [Spells](spells.md)
