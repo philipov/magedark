@@ -1,7 +1,7 @@
 # magedark
 
 - Characters
-  - (Legend System)[legend.md]
+  - [Legend System](legend.md)
 - Items
   - Artisan System
 - Spells
