@@ -16,8 +16,9 @@
   - [Legend](character/legend.md)
 - [Enemies](enemies.md)
 - [Items](items.md)
-  - [Artisan System](artisan.md)
-  - [Item Legend](item_legend.md)
+  - [Item Moves][item/moves.mv]
+  - [Artisan System](item/artisan.md)
+  - [Item Legend](item/legend.md)
 - [Spells](spells.md)
-  - [Spellcasting](spellcasting.md)
-  - [Spell Spheres](spell_spheres.md)
+  - [Spellcasting](spell/casting.md)
+  - [Spell Spheres](spell/spheres.md)
