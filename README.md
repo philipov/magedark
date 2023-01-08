@@ -1,6 +1,10 @@
 # Codename `magedark` 🫠🪄
 
 - [Setting](setting.md)
+  - Where memories go to fade away
+  - Lord of Nightmares
+  - The Four Courts
+  - Heaven
 - [Core Rules](rules.md)
   - [Checks](rules/checks.md)
   - [Combat](rules/combat.md)
@@ -9,7 +13,6 @@
   - [Hunger](character/hunger.md)
   - [Playbooks](character/playbooks.md)
     - [Adventurer](pb/adventurer.md)
-    - [Bandit](pb/bandit.md)
     - [Beast](pb/beast.md)
     - [Cosmic](pb/cosmic.md)
     - [Expert](pb/expert.md)
