@@ -29,6 +29,7 @@
   - [Item Moves](item/moves.mv)
   - [Artisan System](item/artisan.md)
   - [Item Legend](item/legend.md)
+  - Food
 - [Magic](magic.md)
   - [Spellcasting](spell/casting.md)
   - [Spell Spheres](spell/spheres.md)
