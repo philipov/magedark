@@ -1940,7 +1940,7 @@
   
 </details> 
 <details>
-  <summary>#### The Magus</summary>
+  <summary>#### I The Magus</summary>
   
   0    
 
@@ -1966,7 +1966,7 @@
   
 </details> 
 <details>
-  <summary>#### The Priestess</summary>
+  <summary>#### II The Priestess</summary>
   
   0    
 
