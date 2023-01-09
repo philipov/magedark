@@ -32,7 +32,7 @@
   - Item Playbooks:
     - Fluff
     - Equipment
-    - Ammunition
+    - Ammunition / Fuel
     - Food / Medicine
     - Crafting Ingredient
     - Furniture
