@@ -2069,7 +2069,7 @@
   
 </details> 
 <details>
-  <summary>#### The Empress</summary>
+  <summary>#### III The Empress</summary>
   
   0    
 
@@ -2095,7 +2095,7 @@
   
 </details> 
 <details>
-  <summary>#### The Emperor</summary>
+  <summary>#### IV The Emperor</summary>
   
   0    
 
@@ -2121,7 +2121,7 @@
   
 </details> 
 <details>
-  <summary>#### The Hierophant </summary>
+  <summary>#### V The Hierophant </summary>
   
   0    
 
@@ -2147,7 +2147,7 @@
   
 </details> 
 <details>
-  <summary>#### The Lovers</summary>
+  <summary>#### VI The Lovers</summary>
   
   0    
 
@@ -2173,7 +2173,7 @@
   
 </details> 
 <details>
-  <summary>#### The Chariot</summary>
+  <summary>#### VII The Chariot</summary>
   
   0    
 
@@ -2199,7 +2199,7 @@
   
 </details> 
 <details>
-  <summary>#### Justice </summary>
+  <summary>#### VIII Justice </summary>
   
   0    
 
@@ -2225,7 +2225,7 @@
   
 </details> 
 <details>
-  <summary>#### The Hermit</summary>
+  <summary>#### IX The Hermit</summary>
   
   0    
 
@@ -2251,7 +2251,7 @@
   
 </details> 
 <details>
-  <summary>#### The Wheel of Fortune</summary>
+  <summary>#### X The Wheel of Fortune</summary>
   
   0    
 
@@ -2277,7 +2277,7 @@
   
 </details> 
 <details>
-  <summary>#### Fortitude </summary>
+  <summary>#### XI Fortitude </summary>
   
   0    
 
@@ -2303,7 +2303,7 @@
   
 </details> 
 <details>
-  <summary>#### The Hanged Man </summary>
+  <summary>#### XII The Hanged Man </summary>
   
   0    
 
@@ -2329,7 +2329,7 @@
   
 </details> 
 <details>
-  <summary>#### The Reaper </summary>
+  <summary>#### XII The Reaper </summary>
   
   0    
 
@@ -2355,7 +2355,7 @@
   
 </details> 
 <details>
-  <summary>#### Temperance </summary>
+  <summary>#### XIV Temperance </summary>
   
   0    
 
@@ -2381,7 +2381,7 @@
   
 </details> 
 <details>
-  <summary>#### Typhon</summary>
+  <summary>#### XV Typhon</summary>
   
   0    
 
@@ -2407,7 +2407,7 @@
   
 </details> 
 <details>
-  <summary>#### The Tower</summary>
+  <summary>#### XVI The Tower</summary>
   
   0    
 
@@ -2433,7 +2433,7 @@
   
 </details> 
 <details>
-  <summary>#### The Star</summary>
+  <summary>#### XVII The Star</summary>
   
   0    
 
@@ -2459,7 +2459,7 @@
   
 </details> 
 <details>
-  <summary>#### The Moon</summary>
+  <summary>#### XVIII The Moon</summary>
   
   0    
 
@@ -2485,7 +2485,7 @@
   
 </details> 
 <details>
-  <summary>#### The Sun</summary>
+  <summary>#### XIX The Sun</summary>
   
   0    
 
@@ -2511,7 +2511,7 @@
   
 </details> 
 <details>
-  <summary>#### Creation </summary>
+  <summary>#### XX Creation </summary>
   
   0    
 
@@ -2537,7 +2537,7 @@
   
 </details> 
 <details>
-  <summary>#### The World</summary>
+  <summary>#### XXI The World</summary>
   
   0    
 
