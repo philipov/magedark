@@ -1939,3 +1939,549 @@
   10   
   
 </details> 
+<details>
+  <summary>#### The Magus</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Priestess</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Empress</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Emperor</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Hierophant </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Lovers</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Chariot</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Justice </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Hermit</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Wheel of Fortune</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Fortitude </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Hanged Man </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Reaper </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Temperance </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Typhon</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Tower</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Star</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Moon</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The Sun</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Creation </summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### The World</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
