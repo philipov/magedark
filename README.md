@@ -33,7 +33,7 @@
     - Fluff
     - Equipment
     - Ammunition
-    - Food
+    - Food / Medicine
     - Crafting Ingredient
     - Furniture
     - Vehicle
