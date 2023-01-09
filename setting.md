@@ -19,13 +19,13 @@
 #### Court of Coins: 
   - Great Terrace Mountain
     - Empire of Zeal *
-    - Stairway to Heaven
   - Mushroom Forest
   - Kobold Canyons
   - Hundred Mile Cliff
 #### Court of Cups: 
   - Frog Swamp
   - Ocean of 1000 Dreams
+    - Stairway to Heaven
     - Magic City Vane *
     - Temple of the Sleeper
   - Watcher's Glacier
