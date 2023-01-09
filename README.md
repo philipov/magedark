@@ -29,7 +29,7 @@
   - [Item Moves](item/moves.mv)
   - [Artisan System](item/artisan.md)
   - [Item Legend](item/legend.md)
-  - Item Classes:
+  - Item Playbooks:
     - Fluff
     - Equipment
     - Ammunition
