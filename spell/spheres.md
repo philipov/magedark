@@ -439,7 +439,7 @@
 
 #### Holy:
 <details>
-  <summary>#### Lightning</summary>
+  <summary>#### Thunder</summary>
 
   0    
 
@@ -491,7 +491,7 @@
   
 </details> 
 <details>
-  <summary>#### Sun</summary>
+  <summary>#### Lightning</summary>
 
   0    
 
@@ -545,7 +545,7 @@
 
 #### Dark: 
 <details>
-  <summary>#### Moon</summary>
+  <summary>#### Ash</summary>
 
   0   
   1
@@ -1882,9 +1882,86 @@
   10   
   
 </details> 
-
 <details>
   <summary>#### Gun</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details>
+<details>
+  <summary>#### Siege</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Skirmish</summary>
+  
+  0    
+
+  1    
+
+  2    
+
+  3    
+
+  4    
+
+  5    
+
+  6    
+
+  7    
+
+  8    
+
+  9    
+
+  10   
+  
+</details> 
+<details>
+  <summary>#### Riding</summary>
   
   0    
 
